@@ -7,6 +7,7 @@
 ## Installation guide
 - If not already installed, download Fiji from the link above and run the executable.
 - The macro itself does not need to be installed
+- You can download a demo image here: [Demo image](https://heibox.uni-heidelberg.de/f/c43ac73cf89c40ada6b2/)
 
 ## Instructions
 1. Drag and drop an image in TIF (tif.) file to the Fiji toolbar. 
