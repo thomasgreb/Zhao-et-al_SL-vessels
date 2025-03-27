@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15094692.svg)](http://dx.doi.org/10.5281/zenodo.15094692)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.15094693.svg)](http://dx.doi.org/10.5281/zenodo.15094693)
 ## Zhao et. al. - SL-vessels
 
 This repository contains the code for two vessel counting tools. For instructions on how to use them, please look into the README of the respective tool:
